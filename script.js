@@ -1,9 +1,3 @@
-
-
-//                  <<<<<<!------                            VIDEO PLAY CURSOR MAKING                           ------------>>>>
-
-//                  <<<<<                                       LOCOMOTIVE JS CODE                                        >>>>
-
 function locomotiveAnimation(){
     gsap.registerPlugin(ScrollTrigger);
 
